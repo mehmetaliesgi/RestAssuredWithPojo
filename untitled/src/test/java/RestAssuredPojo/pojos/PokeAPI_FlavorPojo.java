@@ -5,6 +5,6 @@ import lombok.*;
 @AllArgsConstructor
 @NoArgsConstructor
 public class PokeAPI_FlavorPojo {
-    private PokeAPI_FlavorPojo flavorPojo;
+    private PokeAPI_Flavor2Pojo flavorPojo;
     private int potency;
 }
